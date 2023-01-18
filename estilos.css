@@ -1,0 +1,13 @@
+.encabezado{
+    color: rgb(9, 19, 15);
+    font-size: 35px;
+}
+
+#elemento1{
+    color:red;
+    font-size:2rem;
+}
+#elemento-1{
+    color:red;
+    font-size:2rem
+}
